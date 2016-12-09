@@ -46,3 +46,5 @@ sum = 0
 for key in my_purchase:
     sum += my_purchase[key] * price[key]
 print 'my Calculation:',sum
+
+
