@@ -1,4 +1,5 @@
-#FIXME: Not sure how to run this task and what is the expected output.
+#Run this test. python weifengc/Task14-UDoctest-based-testing.py.
+# if the comparision are the same, no output
 def median(pool) :
     '''Stathistical median to demonstrate.
     >>> median([2, 9, 9, 7, 9, 2, 4, 5, 8])
